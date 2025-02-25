@@ -1,49 +1,48 @@
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="200" src="https://i.imgflip.com/65efzo.gif" alt="GIF" />
 </div>
 
-###
+<h1 align="center">Hey 👋, I'm Ahmed Sabry</h1>
 
-<h1 align="left">Hey 👋,I'm Ahmed Sabry</h1>
+<p align="center">
+  <strong>Data Science Engineer 🤖 | Software Engineer 💻</strong>
+</p>
 
-###
+---
 
-<p align="left">Data Science Engineer 🤖 | Software Engineer 💻.</p>
+## 🌟 About Me
 
-###
+- 💻 **Skills**: Python, NumPy, Pandas, Matplotlib, Machine Learning, Deep Learning, SQL  
+- 📚 **Currently Learning**: Computer Vision & Natural Language Processing (NLP) 🧠  
+- 🎯 **Goals**: Master AI & ML | Improve Teamwork & Collaboration 🤝  
+- 🎲 **Fun Fact**: I love solving real-world problems with data! 📊🔍  
 
-<h1 align="left">Connect with me</h1>
+---
 
-###
+## 📬 Connect with Me
 
-<p align="left">how to reach me : as7172226@gmail.com</p>
+<p align="left">
+  <a href="mailto:as7172226@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/your-github"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
 
-###
+---
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">💻My skills: python , numpy , pandas , matplotlib , machine learning ,deeplearning ,sql.<br>📚 I'm currently learning: Computer Vision & Natural Language Processing (NLP) 🧠<br>🎯 Goals: Master AI & Machine Learning | Enhance Teamwork & Collaboration Skills 🤝<br>🎲 Fun fact: I love solving real-world problems with data! 📊🔍</p>
-
-###
-
-<h2 align="left">Languages and Tools</h2>
-
-###
+## 🛠 Languages and Tools
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="Anaconda" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" />
 </div>
-
-###
