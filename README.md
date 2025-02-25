@@ -1,5 +1,7 @@
 <div align="center">
   <img height="200" src="https://i.imgflip.com/65efzo.gif" alt="GIF" />
+  <br>
+  <img height="200" src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" alt="Coding GIF" />
 </div>
 
 <h1 align="center">Hey 👋, I'm Ahmed Sabry</h1>
@@ -25,6 +27,7 @@
   <a href="mailto:as7172226@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/your-github"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.kaggle.com/ahmadsabriabdo"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
 </p>
 
 ---
